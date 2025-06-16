@@ -12,8 +12,15 @@ Dataset utama untuk proyek ini, `Pakistan Largest Ecommerce Dataset.csv`, beruku
 3.  Buka `analisi_data.ipynb` menggunakan Jupyter Notebook atau JupyterLab.
 ---
 
-Analisis Penjualan E-Commerce Pakistan --- Presentasi Tugas Akhir Praktikum SIM Kelompok 4 yang beranggotakan
-231712013 | Martarianda Gultom
-231712018 | Anggun Tasbilla Sitepu 
-231712021 | Suci Ade Pirana Br Sembiring
-222406021 | Fathul Amin
+# Analisis Penjualan E-Commerce Pakistan
+
+---
+
+**Presentasi Tugas Akhir Praktikum SIM - Kelompok 4**
+
+* 231712013 | Martarianda Gultom
+* 231712018 | Anggun Tasbilla Sitepu
+* 231712021 | Suci Ade Pirana Br Sembiring
+* 222406021 | Fathul Amin
+
+---
